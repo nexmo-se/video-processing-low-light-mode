@@ -1,0 +1,16 @@
+{
+    "name": "Video-Processing-Low-Light-Mode",
+    "description": "A sample app to show how to zoom and center a publisher using face-api and insertable stream",
+    "repository": "https://github.com/nexmo-se/video-processing-low-light-mode",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "env": {
+      "API_KEY": {
+        "desription": "Vonage Video API - API Key",
+        "required": true
+      },
+      "API_SECRET" : {
+        "description": "Vonage Video API - API Secret",
+        "required": true
+      }
+    }
+  }
